@@ -57,7 +57,7 @@ const CONFIG = {
     music: {
         enabled: true,
         autoplay: true,
-        musicUrl: "https://res.cloudinary.com/dfwoily5s/video/upload/v1769929308/%D0%9C%D0%BE%D0%BB%D0%B5%D1%86_x_Robi_-_%D0%9A%D0%B0%D0%BA_Official_Video_tdreal.mp3",
+        musicUrl: "https://res.cloudinary.com/dsnias42f/video/upload/v1770207192/Wet_c7foqi.mp3",
         startText: "🎵 Пусни музиката",
         stopText: "🔇 Спри музиката",
         volume: 0.5
